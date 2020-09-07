@@ -1,0 +1,439 @@
+@CHARSET "UTF-8";
+
+#Login 
+{
+	background: #ffffff url(../images/table_background.png) repeat-x; 
+	display:block; 
+	margin:0 auto; 
+	box-shadow:5px 5px 5px #000940; 
+	background-color:#ffffff;
+	width:100%;
+	text-align: center;
+}
+
+/* Account Page */
+#UnplacedAds
+{
+	display:block; 
+	background: url(../images/table_background.png) repeat-x; 
+	border:1px solid #b2b2b2;  
+	width:auto;
+	text-align:left;
+	margin:5px;
+}
+#ExpiringAds
+{
+	display:block;
+	background: url(../images/table_background.png) repeat-x; 
+	border:1px solid #b2b2b2;  
+	width:auto;
+	text-align:left;
+	margin:5px;
+}
+#OpenSections
+{
+	display:none;
+}
+
+#Header
+{
+	display: block;
+	background-color: #ffffff;
+	box-shadow: 5px 5px 5px #000940;
+	margin: 0px auto;
+	width:auto;
+}
+#Header_Logo
+{
+	display:block;
+	background:url(../images/table_background.png) repeat-x; 
+	margin:0px;
+	text-align:center;
+	padding:5px;
+	clear: both;
+}
+#Header_Nav
+{
+	display:block;
+	white-space: nowrap;
+	background: #142c61;
+	height:80px;
+	width:100%;
+	text-align:center;
+	vertical-align:middle;
+	font-size: 14px;
+}
+#Header_Nav_User
+{
+	display:block;
+	white-space: nowrap;
+	height:auto;
+	width:auto;
+	text-align: center;
+	vertical-align: middle;
+	color:#ffffff;
+	border-bottom: 1px solid #ffffff;
+	padding:10px;
+}
+#EditUserButton
+{
+	display:none;
+}
+#Header_Nav_Locations
+{
+	display:block;
+	white-space: nowrap;
+	height:auto;
+	width:auto;
+	text-align:center;
+	vertical-align:middle;
+	color:#ffffff;
+	padding:10px;
+	white-space:nowrap;
+}
+#Header_Nav_Advertisers
+{
+	display:none;
+	white-space: nowrap;
+	padding-left: 50px;
+	height:auto;
+	width:auto;
+	vertical-align: middle;
+	color:#ffffff;
+	white-space:nowrap;
+}
+#Header_Nav_Advertisements
+{
+	display: none;
+	white-space: nowrap;
+	padding-left: 50px;
+	height:auto;
+	width:auto;
+	vertical-align: middle;
+	color:#ffffff;
+	white-space:nowrap;
+}
+#Header_Nav_Users
+{
+	display: none;
+	white-space: nowrap;
+	padding-left: 50px;
+	height:auto;
+	width:auto;
+	vertical-align: middle;
+	color:#ffffff;
+	white-space:nowrap;
+}
+#Content
+{
+	display: block;
+	background-color: #ffffff;
+	background: #ffffff url(../images/table_background.png) repeat-x;
+	box-shadow: 5px 5px 5px #000940;
+	margin: 0px auto;
+	width:auto;
+	min-height:200px;
+}
+#Content_Main
+{
+	display: block;
+	padding:0px 5px 5px 5px;
+	margin: 0px auto;
+	width:auto;
+	min-height:200px;
+}
+#PageTitle
+{
+	display:block;
+	width:auto;
+	padding:10px;
+	font-size: 16px; 
+	font-weight:bold; 
+	color:#ee3224;
+	text-align:center;
+	vertical-align:middle;
+}
+#AddLocationButton, #AddRegionButton
+{
+	display:none;
+}
+#RentReport, #AdCount, #AddPanelButton, #PanelListButton
+{
+	display:none;
+}
+
+/* Locations */
+#SearchLocationTextBox
+{
+	width:inherit;
+	height: 20px;
+}
+
+#SearchResults
+{
+	width:auto; 
+	padding:0px;
+	margin:5px; 
+	display:block;
+}
+#RegionList
+{
+	vertical-align:top; 
+	width:auto; 
+	margin:5px; 
+	display:block;
+}
+#CityList
+{
+	vertical-align:top; 
+	width:auto; 
+	margin:5px; 
+	display:block;
+}
+#ZipcodeList
+{
+	vertical-align:top; 
+	width:auto; 
+	margin:5px; 
+	display:block;
+}
+#ViewReportDropdown
+{
+	height:20px;
+	width: auto;
+}
+#AccountListRegionRow
+{
+	display:block; 
+	width:auto; 
+	padding:5px; 
+	vertical-align:middle; 
+	background-color:#142c61; 
+	color:#ffffff; 
+	font-weight:bold;
+}
+#AccountListColumn1
+{
+	width:auto; 
+	vertical-align:top; 
+	display:block;
+}
+#AccountListColumn2
+{
+	width:auto; 
+	vertical-align:top; 
+	margin-top:5px;
+	padding-left:0px; 
+	display:block;
+}
+#AccountListColumn3
+{
+	width:auto;
+	vertical-align:top; 
+	padding-left:0px; 
+	display:none;
+}
+
+/* Reports */
+#PanelLocationButton
+{
+	display:none;
+}
+#AddPanelButton
+{
+	display:none;
+}
+#PanelListButton
+{
+	display:none;
+}
+#RentReportSearchOptions
+{
+	display:block; 
+}
+
+#Footer
+{
+	display: block;
+	background-color: #000000;
+	box-shadow: 5px 5px 5px #000940;
+	margin: 0px auto;
+	width:auto;
+}
+#Footer_Main
+{
+	display: block;
+	height:auto; 
+	padding:10px;
+	text-align:center; 
+	vertical-align:middle; 
+	color:#ffffff; 
+	font-size:9px; 
+	font-weight:bold;
+	margin: 0px auto;
+	width:auto;
+}
+
+/* Reports */
+#AdSummary
+{
+	display:block;
+	width:auto; 
+	white-space:nowrap;
+	text-align:center;
+	vertical-align:top;
+	margin:10px;
+}
+#AdSummaryDescription
+{
+	display:block;
+	vertical-align:top;
+}
+#RegionalRunReport
+{
+	display:block;
+	width: 100%;
+	margin-bottom:10px;
+}
+#RunReport
+{
+	display:block;
+	width: 100%;
+	page-break-before:always;
+	border-top:2px solid #000000;
+}
+#RunReportColumns
+{
+	display:block;
+	padding:10px;
+}
+#PageHeader
+{
+	display:none;
+}
+
+#nav 
+{
+	text-align:center;
+	vertical-align: middle;
+	list-style:none;
+	margin:0; 
+	padding:0;
+}
+#nav ul 
+{
+	position:absolute; 
+	left:0; 
+	display:none; 
+	margin:0; 
+	padding:0; 
+	list-style:none;
+}
+/*
+#nav {
+		margin:0; 
+		padding:0; 
+		list-style:none;
+	}	
+	
+		#nav li {
+			float:left; 
+			display:block;  
+			background:#142c61; 
+			position:relative;
+			z-index:500; 
+			margin:0;
+		}
+		
+		#nav li a {
+			display:block; 
+			padding:5px; 
+			text-align:center;
+		}
+
+		#nav ul {
+			position:absolute; 
+			left:0; 
+			display:none; 
+			margin:0; 
+			padding:0; 
+			list-style:none;
+		}
+		
+		#nav ul li { 
+			float:left;
+		}
+		
+		#nav ul a {
+			display:block;  
+
+			padding:5px 5px 1px 5px; 
+			vertical-align: middle;
+		}
+		
+		#nav ul a:hover {
+			background:#ffffff;
+		}
+
+.header {
+	background: url(../images/nav_background.png) repeat-x; 
+	height:40px;
+	color:#ffffff;
+	font-size:14px; 
+	font-style:normal; 
+	font-weight:bold;
+	text-align:left; 
+	word-spacing:.15em; 
+	vertical-align:middle; 
+	padding:0px 0px 17px 10px;
+	white-space:nowrap;
+}
+*/
+.footer {
+	background-color:#000000; 
+	height:25px; 
+	padding:5px 10px 5px 10px; 
+	text-align:center; 
+	vertical-align:middle; 
+	color:#ffffff; 
+	font-size:9px; 
+	font-weight:bold
+}
+
+th {text-align:left;}
+
+h1 {font-size: 16px; font-weight:bold; color:#ee3224; margin:5px;}
+h2 {font-size: 14px; font-weight:bold; color:#ee3224; margin:5px;}
+h3 {font-size: 12px; font-weight:bold; color:#ee3224; margin:5px;}
+
+p {margin:15px; line-height:15px;}
+
+ul {
+	font-weight:bold;
+	text-decoration:none;
+	margin-top:3px;
+}
+li {
+	font-weight:normal;
+	text-decoration:none;
+}
+
+.required {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border:2px solid #ee3224; 
+}
+
+
+	.ContentTable
+	{
+		background: url(../images/table_background.png) repeat-x; 
+		box-shadow:5px 5px 5px #000940;
+	}
+	input, textarea, select, button 
+	{
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+		font-size:11px;
+		border:1px solid #142c61;
+		color:#142c61;
+	}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Advertisers>
+  <Advertiser id="277">
+    <IA_Advertisers_ID>277</IA_Advertisers_ID>
+    <IA_Advertisers_UserID>1</IA_Advertisers_UserID>
+    <IA_Advertisers_BusinessName>Test Advertiser 11</IA_Advertisers_BusinessName>
+    <IA_Advertisers_FirstName>Bill</IA_Advertisers_FirstName>
+    <IA_Advertisers_LastName>Smith</IA_Advertisers_LastName>
+    <IA_Advertisers_Address>123 Test Road</IA_Advertisers_Address>
+    <IA_Advertisers_City>Middleton</IA_Advertisers_City>
+    <IA_Advertisers_StateID>49</IA_Advertisers_StateID>
+    <IA_Advertisers_Zipcode>45678</IA_Advertisers_Zipcode>
+    <IA_Advertisers_Phone>(123) 456-7890</IA_Advertisers_Phone>
+    <IA_Advertisers_Fax>(608) 334-7201</IA_Advertisers_Fax>
+    <IA_Advertisers_Email>emailkevinkelm@gmail.com</IA_Advertisers_Email>
+    <IA_Advertisers_StartDate>2014-1-1</IA_Advertisers_StartDate>
+    <IA_Advertisers_ExpirationDate>2015-12-31</IA_Advertisers_ExpirationDate>
+    <IA_Advertisers_DateDependent></IA_Advertisers_DateDependent>
+    <IA_Advertisers_ApplyToRent>1</IA_Advertisers_ApplyToRent>
+    <IA_Advertisers_TaxID>123456</IA_Advertisers_TaxID>
+    <IA_Advertisers_Archived>0</IA_Advertisers_Archived>
+    <IA_Advertisers_DateModified>2014-06-24 01:05:08</IA_Advertisers_DateModified>
+    <IA_States_ID>49</IA_States_ID>
+    <IA_States_Abbreviation>WI</IA_States_Abbreviation>
+    <IA_States_Name>Wisconsin</IA_States_Name>
+    <Pricings>
+      <Pricing>
+        <IA_AdvertiserPricing_ID>104</IA_AdvertiserPricing_ID>
+        <IA_AdvertiserPricing_AdvertiserID>277</IA_AdvertiserPricing_AdvertiserID>
+        <IA_AdvertiserPricing_LocationID>0</IA_AdvertiserPricing_LocationID>
+        <IA_AdvertiserPricing_AdTypeID>0</IA_AdvertiserPricing_AdTypeID>
+        <IA_AdvertiserPricing_AdSize>0x0</IA_AdvertiserPricing_AdSize>
+        <IA_AdvertiserPricing_AdNumber>10</IA_AdvertiserPricing_AdNumber>
+        <IA_AdvertiserPricing_Pricing>100.00</IA_AdvertiserPricing_Pricing>
+        <IA_AdvertiserPricing_IncrementID>12</IA_AdvertiserPricing_IncrementID>
+        <IA_AdvertiserPricing_StartDate>2014-01-01</IA_AdvertiserPricing_StartDate>
+        <IA_AdvertiserPricing_EndDate>2015-12-31</IA_AdvertiserPricing_EndDate>
+        <IA_AdLocations_ID>0</IA_AdLocations_ID>
+        <IA_AdLocations_Location>All</IA_AdLocations_Location>
+        <IA_AdTypes_ID>0</IA_AdTypes_ID>
+        <IA_AdTypes_Name>All</IA_AdTypes_Name>
+      </Pricing>
+    </Pricings>
+  </Advertiser>
+  <Advertiser id="283">
+    <IA_Advertisers_ID>283</IA_Advertisers_ID>
+    <IA_Advertisers_UserID>1</IA_Advertisers_UserID>
+    <IA_Advertisers_BusinessName>Test Advertiser 2</IA_Advertisers_BusinessName>
+    <IA_Advertisers_FirstName>Sam</IA_Advertisers_FirstName>
+    <IA_Advertisers_LastName>Kelm</IA_Advertisers_LastName>
+    <IA_Advertisers_Address>123 Test Blvd</IA_Advertisers_Address>
+    <IA_Advertisers_City>Ripon</IA_Advertisers_City>
+    <IA_Advertisers_StateID>10</IA_Advertisers_StateID>
+    <IA_Advertisers_Zipcode>12345</IA_Advertisers_Zipcode>
+    <IA_Advertisers_Phone>(123) 987-6543</IA_Advertisers_Phone>
+    <IA_Advertisers_Fax>(123) 987-6544</IA_Advertisers_Fax>
+    <IA_Advertisers_Email>emailkevinkelm@gmail.com</IA_Advertisers_Email>
+    <IA_Advertisers_StartDate>2014-01-01</IA_Advertisers_StartDate>
+    <IA_Advertisers_ExpirationDate>2015-12-31</IA_Advertisers_ExpirationDate>
+    <IA_Advertisers_DateDependent>1</IA_Advertisers_DateDependent>
+    <IA_Advertisers_ApplyToRent>1</IA_Advertisers_ApplyToRent>
+    <IA_Advertisers_TaxID>123456</IA_Advertisers_TaxID>
+    <IA_Advertisers_Archived>0</IA_Advertisers_Archived>
+    <IA_Advertisers_DateModified>2014-06-02 10:08:32</IA_Advertisers_DateModified>
+    <IA_States_ID>10</IA_States_ID>
+    <IA_States_Abbreviation>GA</IA_States_Abbreviation>
+    <IA_States_Name>Georgia</IA_States_Name>
+    <Pricings/>
+  </Advertiser>
+  <Advertiser id="285">
+    <IA_Advertisers_ID>285</IA_Advertisers_ID>
+    <IA_Advertisers_UserID>1</IA_Advertisers_UserID>
+    <IA_Advertisers_BusinessName>Test Advertiser 33</IA_Advertisers_BusinessName>
+    <IA_Advertisers_FirstName>Bill</IA_Advertisers_FirstName>
+    <IA_Advertisers_LastName>Smith</IA_Advertisers_LastName>
+    <IA_Advertisers_Address>123 Test Ave</IA_Advertisers_Address>
+    <IA_Advertisers_City>Middleton</IA_Advertisers_City>
+    <IA_Advertisers_StateID>49</IA_Advertisers_StateID>
+    <IA_Advertisers_Zipcode>12345</IA_Advertisers_Zipcode>
+    <IA_Advertisers_Phone>(123) 987-6543</IA_Advertisers_Phone>
+    <IA_Advertisers_Fax>(123) 987-6544</IA_Advertisers_Fax>
+    <IA_Advertisers_Email>kkelm@live.com</IA_Advertisers_Email>
+    <IA_Advertisers_StartDate>2014-6-23</IA_Advertisers_StartDate>
+    <IA_Advertisers_ExpirationDate>2015-12-31</IA_Advertisers_ExpirationDate>
+    <IA_Advertisers_DateDependent>1</IA_Advertisers_DateDependent>
+    <IA_Advertisers_ApplyToRent>1</IA_Advertisers_ApplyToRent>
+    <IA_Advertisers_TaxID>123456</IA_Advertisers_TaxID>
+    <IA_Advertisers_Archived>0</IA_Advertisers_Archived>
+    <IA_Advertisers_DateModified>2014-06-24 12:40:15</IA_Advertisers_DateModified>
+    <IA_States_ID>49</IA_States_ID>
+    <IA_States_Abbreviation>WI</IA_States_Abbreviation>
+    <IA_States_Name>Wisconsin</IA_States_Name>
+    <Pricings/>
+  </Advertiser>
+</Advertisers>
