@@ -11,3 +11,9 @@ Forged by a talented team and extensive research of the media distribution indus
 The team at AdHound™ recognizes that media distribution isn't a one person job. So the team has integrated the ability for media distribution professionals to assign multiple users/assistants under their account, and assign those users with specific viewing and editing privileges.
 
 ## Project Technologies/Techniques
+- PHP 5.x and 7.x
+- MySQL 5.x
+- JavaScript
+- jQuery
+- Bootstrap CSS
+- Stripe
