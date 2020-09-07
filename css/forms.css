@@ -1,0 +1,50 @@
+.btn {
+    background-color: rgba(0, 49, 83, 1);
+}
+
+.btn:hover {
+    background-color: rgba(0, 49, 83, 0.6);
+}
+
+#errorMessages {
+    color:#ff0000;
+}
+
+.form {
+    width: 100%;
+    padding: 15px;
+    margin: auto;
+    background-color: #fff;
+}
+.form .checkbox {
+    font-weight: 400;
+}
+.form .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.form .form-control:focus {
+    z-index: 2;
+}
+.form input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+
+.form-signin {
+    max-width: 330px;
+}
+
+.form-signup {
+    max-width: 600px;
+}
