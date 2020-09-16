@@ -61,8 +61,8 @@
 		        	define("DATABASE",        "");
 		        	define("LOGIN",           "");
 		        	define("PASSWORD",        "");
-		        	define('STRIPE_PRIVATE_KEY', 'sk_test_FLJLxsxIGrjemyvHrevvecTT');
-					define('STRIPE_PUBLIC_KEY', 'pk_test_ucfn4FoNlG5G0R4BQd3ZpCCf');
+		        	define('STRIPE_PRIVATE_KEY', '');
+					define('STRIPE_PUBLIC_KEY', '');
         		}
         		else 
         		{
