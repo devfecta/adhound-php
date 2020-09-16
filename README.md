@@ -16,11 +16,13 @@ The team at AdHound™ recognizes that media distribution isn't a one person job
 - JavaScript
 - jQuery
 - Bootstrap CSS
-- Stripe
+- Stripe ...WIP
 
 ## Project Details
 This project was built from the database on up. I started with laying out the database schema using Draw.io to make a basic Entity Relationship Diagram (ERD), and then created SQL files in the project's database directory that could be imported into the database. These SQL files also contained test data that I could use throughout the development process.
 
 Another consideration for this project was "mobile first". One of the goals for this application was to have in run on phones and tablets, so I incorporated Bootstrap CSS to make it easier for the application to adjust to certain screen sizes.
+
+The code itself was overhauled too. Previous versions relied on either session variable or XML, which recreated performance issues. This version focuses more on objects with getters and setters with private variables to limit access. Along with more focused methods that performed more specific actions.
 
 Also, in previous versions of the project I used a poor MVC design pattern, so I used this as an opportunity to approve upon it using jQuery to call a primitive API.
